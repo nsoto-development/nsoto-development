@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-label="1,279 contributions in the last 12 months, 51 active days, 28 repos pushed to, busiest month Jul 2026">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #0a9efa; }
+    .big { font-size: 34px; font-weight: 700; fill: #c9d1d9; }
+    .label { font-size: 12px; fill: #8b949e; }
+    .value { font-size: 13px; font-weight: 600; fill: #c9d1d9; }
+    .lang { font-size: 12px; fill: #c9d1d9; }
+  </style>
+  <rect width="400" height="140" rx="4.5" fill="#0d1117"/>
+  <text x="25" y="35" class="title">Activity, last 12 months</text>
+  <text x="25" y="80" class="big">1,279</text>
+  <text x="25" y="99" class="label">contributions, incl. private</text>
+  <text x="215" y="62" class="label">Active days</text>
+  <text x="375" y="62" class="value" text-anchor="end">51</text>
+  <text x="215" y="82" class="label">Repos pushed to</text>
+  <text x="375" y="82" class="value" text-anchor="end">28</text>
+  <text x="215" y="102" class="label">Busiest month</text>
+  <text x="375" y="102" class="value" text-anchor="end">Jul 2026</text>
+  <path d="M25.0,130.0 L31.7,128.2 L38.5,127.2 L45.2,130.0 L51.9,130.0 L58.7,130.0 L65.4,130.0 L72.1,130.0 L78.8,130.0 L85.6,130.0 L92.3,130.0 L99.0,130.0 L105.8,130.0 L112.5,130.0 L119.2,130.0 L126.0,129.4 L132.7,130.0 L139.4,130.0 L146.2,130.0 L152.9,130.0 L159.6,130.0 L166.3,130.0 L173.1,130.0 L179.8,130.0 L186.5,112.0 L193.3,129.1 L200.0,130.0 L206.7,130.0 L213.5,130.0 L220.2,130.0 L226.9,128.9 L233.7,130.0 L240.4,130.0 L247.1,130.0 L253.8,130.0 L260.6,130.0 L267.3,130.0 L274.0,122.1 L280.8,130.0 L287.5,119.3 L294.2,116.2 L301.0,118.8 L307.7,120.9 L314.4,125.2 L321.2,130.0 L327.9,130.0 L334.6,130.0 L341.3,128.8 L348.1,123.1 L354.8,125.7 L361.5,121.2 L368.3,114.4 L375.0,116.7 L375,130 L25,130 Z" fill="#0a9efa" fill-opacity="0.15"/>
+  <path d="M25.0,130.0 L31.7,128.2 L38.5,127.2 L45.2,130.0 L51.9,130.0 L58.7,130.0 L65.4,130.0 L72.1,130.0 L78.8,130.0 L85.6,130.0 L92.3,130.0 L99.0,130.0 L105.8,130.0 L112.5,130.0 L119.2,130.0 L126.0,129.4 L132.7,130.0 L139.4,130.0 L146.2,130.0 L152.9,130.0 L159.6,130.0 L166.3,130.0 L173.1,130.0 L179.8,130.0 L186.5,112.0 L193.3,129.1 L200.0,130.0 L206.7,130.0 L213.5,130.0 L220.2,130.0 L226.9,128.9 L233.7,130.0 L240.4,130.0 L247.1,130.0 L253.8,130.0 L260.6,130.0 L267.3,130.0 L274.0,122.1 L280.8,130.0 L287.5,119.3 L294.2,116.2 L301.0,118.8 L307.7,120.9 L314.4,125.2 L321.2,130.0 L327.9,130.0 L334.6,130.0 L341.3,128.8 L348.1,123.1 L354.8,125.7 L361.5,121.2 L368.3,114.4 L375.0,116.7" fill="none" stroke="#0a9efa" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

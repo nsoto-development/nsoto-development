@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nsoto-development&show_icons=true&hide_rank=true&hide=stars,issues&card_width=400&line_height=23&hide_border=true&bg_color=0d1117&title_color=0a9efa&icon_color=0a9efa&text_color=c9d1d9" alt="GitHub stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsoto-development&layout=compact&langs_count=4&card_width=400&hide_border=true&bg_color=0d1117&title_color=0a9efa&text_color=c9d1d9" alt="Top languages">
+  <img width="49%" src="./metrics/activity.svg" alt="Contribution activity, last 12 months">
+  <img width="49%" src="./metrics/languages.svg" alt="Languages across all repos">
 </p>
 
 <p align="center">
