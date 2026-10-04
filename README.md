@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/nsoto-development/ns-chess"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nsoto-development&repo=ns-chess&hide_border=true&bg_color=0d1117&title_color=0a9efa&icon_color=0a9efa&text_color=c9d1d9" alt="ns-chess"></a>
-  <a href="https://github.com/nsoto-development/lgtv-display-sync"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nsoto-development&repo=lgtv-display-sync&hide_border=true&bg_color=0d1117&title_color=0a9efa&icon_color=0a9efa&text_color=c9d1d9" alt="lgtv-display-sync"></a>
+  <a href="https://github.com/nsoto-development/ns-budget"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nsoto-development&repo=ns-budget&hide_border=true&bg_color=0d1117&title_color=0a9efa&icon_color=0a9efa&text_color=c9d1d9" alt="ns-budget"></a>
 </p>
 
 <p align="center">
