@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="805" height="80" viewBox="0 0 805 80" role="img" aria-label="Both of these projects are live on my portfolio at nsoto.dev">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #0a9efa; }
+    .label { font-size: 13px; fill: #8b949e; }
+    .site { font-size: 24px; font-weight: 700; fill: #c9d1d9; }
+  </style>
+  <rect width="805" height="80" rx="4.5" fill="#0d1117"/>
+  <rect x="0" y="16" width="4" height="48" rx="2" fill="#0a9efa"/>
+  <text x="25" y="35" class="title">See them live</text>
+  <text x="25" y="57" class="label">Both of these projects are deployed on my portfolio site</text>
+  <text x="740" y="49" class="site" text-anchor="end">nsoto.dev</text>
+  <path d="M752 40 H776 M766 30 L776 40 L766 50" stroke="#0a9efa" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
