@@ -12,13 +12,13 @@
   <clipPath id="bar"><rect x="25" y="50" width="350" height="8" rx="4"/></clipPath>
   <rect x="25" y="50" width="350" height="8" rx="4" fill="#21262d"/>
   <g clip-path="url(#bar)">
-    <rect x="25.00" y="50" width="106.50" height="8" fill="#3178c6"/>
-    <rect x="131.50" y="50" width="86.81" height="8" fill="#3572A5"/>
-    <rect x="218.31" y="50" width="59.38" height="8" fill="#f1e05a"/>
-    <rect x="277.69" y="50" width="32.81" height="8" fill="#8092ab"/>
-    <rect x="310.50" y="50" width="15.42" height="8" fill="#7355dd"/>
-    <rect x="325.92" y="50" width="13.37" height="8" fill="#e34c26"/>
-    <rect x="339.29" y="50" width="35.71" height="8" fill="#8b949e"/>
+    <rect x="25.00" y="50" width="106.46" height="8" fill="#3178c6"/>
+    <rect x="131.46" y="50" width="86.78" height="8" fill="#3572A5"/>
+    <rect x="218.24" y="50" width="59.36" height="8" fill="#f1e05a"/>
+    <rect x="277.60" y="50" width="32.92" height="8" fill="#8092ab"/>
+    <rect x="310.52" y="50" width="15.42" height="8" fill="#7355dd"/>
+    <rect x="325.94" y="50" width="13.37" height="8" fill="#e34c26"/>
+    <rect x="339.31" y="50" width="35.69" height="8" fill="#8b949e"/>
   </g>
   <circle cx="30" cy="76" r="5" fill="#3178c6"/>
   <text x="41" y="80" class="lang">TypeScript <tspan fill="#8b949e">30.4%</tspan></text>
